@@ -1,7 +1,7 @@
 // Import necessary modules
 const express = require('express');
 
-// Create an Express application
+// Create web server
 const app = express();
 const port = 3000; // Port number to listen on
 
